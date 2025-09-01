@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Retro Runner by Sasandara Dilmina"
+config/name="Retro Run by Sasandara Dilmina"
 config/version="1.0"
 run/main_scene="res://Screens/MainScreen.tscn"
 config/features=PackedStringArray("4.4")
